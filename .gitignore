@@ -1,0 +1,7 @@
+/.gradle
+/eclipse
+/build
+/classes
+/run
+*.iml
+*.launch
